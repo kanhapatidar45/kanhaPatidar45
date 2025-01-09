@@ -36,7 +36,7 @@ I have experience with deployment tools and practices such as Git & GitHub for v
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devpatidar19&show_icons=true&locale=en&layout=compact" alt="devpatidar19" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devpatidar19&show_icons=true&locale=en" alt="devpatidar19" /></p>
+
 
 <!--
 **devPatidar19/devPatidar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
